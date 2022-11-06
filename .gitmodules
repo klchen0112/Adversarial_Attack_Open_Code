@@ -1,0 +1,6 @@
+[submodule "meta-rs"]
+	path = meta-rs
+	url = https://github.com/boschresearch/meta-rs.git
+[submodule "MGAA"]
+	path = MGAA
+	url = https://github.com/huitailangyz/MGAA.git
